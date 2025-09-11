@@ -10,4 +10,4 @@ From coding small scripts to managing deployments, I enjoy learning, experimenti
 - 🌱 Currently learning advanced concepts in **containerization, orchestration, and cloud-native applications**  
 - 🤝 Open to collaborating on projects that involve **automation, system design, or web development**  
 
-Let’s connect and build something awesome together! 🚀
+“Exploring, coding, and growing one commit at a time. 📈”
